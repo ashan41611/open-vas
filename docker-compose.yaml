@@ -1,3 +1,4 @@
+#### curl -f -O -L https://raw.githubusercontent.com/ashan41611/open-vas/main/docker-compose.yaml
 name: greenbone-community-edition
 
 services:
